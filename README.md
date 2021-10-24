@@ -1,5 +1,9 @@
 # OpticalInstruments
 
 ## Repositorio del curso instrumentos ópticos 2021-2
+
+<p align="center">
+    <a href="https://www.manim.community/"><img src="https://i.pinimg.com/originals/b1/3f/64/b13f648b9f8b47d47e37243289a5c03d.jpg" width="500" height="400"></a>
+</p>
  
 Los contribuidores de este repositorio son: Juan David, Jonathan e Iván.
