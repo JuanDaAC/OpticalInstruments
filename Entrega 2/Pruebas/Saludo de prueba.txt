@@ -1,0 +1,3 @@
+Hola, sapo perros
+Este archivo es para mostrar que usar git no es tan jodido
+Hola soy yo
